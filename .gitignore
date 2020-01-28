@@ -12,7 +12,6 @@
 .idea
 nbproject
 nbproject/private
-.vscode/
 .vs/
 
 // Node / Bower
@@ -36,3 +35,7 @@ docs_html/
 TODO
 test.html
 ad.js
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
